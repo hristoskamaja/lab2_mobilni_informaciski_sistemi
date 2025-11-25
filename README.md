@@ -1,16 +1,10 @@
-# lab2_mis
+# lab2_mis 
+Lab 2 - Мобилни информациски системи 
+**Маја Христоска - 223209** 
 
-A new Flutter project.
+## Линк до видео
+(https://drive.google.com/file/d/1MJ_obU9But5mFClsr0uCEWn6ajOtj0lV/view?usp=sharing)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| ![](screenshots/1.png) | ![](screenshots/2.png) | ![](screenshots/3.png) |
+| ---------------------- | ---------------------- | ---------------------- |
+| ![](screenshots/4.png) | ![](screenshots/5.png) | ![](screenshots/6.png) |
